@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSC222.iml" filepath="$PROJECT_DIR$/CSC222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_20240117/Class_20240117.iml" filepath="$PROJECT_DIR$/Class_20240117/Class_20240117.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab1/MiniLab1.iml" filepath="$PROJECT_DIR$/MiniLab1/MiniLab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1_Exercise/Unit1_Exercise.iml" filepath="$PROJECT_DIR$/Unit1_Exercise/Unit1_Exercise.iml" />
+    </modules>
+  </component>
+</project>
