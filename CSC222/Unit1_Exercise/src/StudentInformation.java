@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Program Name:  Student Information
+ * Program Name: Student Information
  *
  * <p>
  * Description: Capture student information
