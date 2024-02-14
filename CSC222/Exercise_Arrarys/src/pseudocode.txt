@@ -1,0 +1,28 @@
+* Establish a connection to stdin with a Scanner instance
+* Create an integer array with a length of 5
+* Loop the integer array and track the current index
+    * Print prompt line
+    * Wait for an integer input
+    * Store the integer input in the corresponding array index
+* Begin a while loop that will not end until a break condition is given
+    * Display the menu of functional options the user can choose from
+    * Display menu prompt
+    * Wait for an integer input
+    * If menu prompt is 4
+        * Break out of the function loop
+    * If menu prompt is 1
+        * Display all 5 numbers in a single line using a for loop over the integer array
+        * Continue to the next iteration
+    * If menu prompt is 2
+        * Create and initialize an accumulator with a value of java.lang.Integer.MIN_VALUE
+        * Loop over each element of the integer array
+            * If the current array value is greater than the accumulator
+                * Set the accumulator to the current array value
+        * Display the accumulator as the max value of the integer array
+    * If menu prompt is 3
+        * Create and initialize an accumulator with a value of 0
+        * Loop over each element of the integer array
+            * Add the current integer value to the accumulator
+        * Calculate the average by dividing the accumulator by length of the integer array
+        * Display that average result as a float to the tenth precision
+* Stop the program
